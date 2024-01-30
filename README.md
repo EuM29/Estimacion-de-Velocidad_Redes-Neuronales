@@ -2,10 +2,8 @@
 
 ¡Bienvenid@! Este proyecto utiliza Redes Neuronales Convolucionales para hacer estimaciones de velocidad de automóviles. :car: :motorway:
 
-[![Ver Demo](https://img.shields.io/badge/Ver-Demo-brightgreen)](https://www.youtube.com/watch?v=lmFNopNvgBk)
+https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/e3d36a2d-3ece-4967-b7d1-ee34c2cf21e4
 
-
-> Haz clic en el botón para ver la demostración en video.
 
 ## Descripción  🚗💨
 Este proyecto es un experimento práctico que aplica CNNs en el contexto del reconocimiento y seguimiento de vehículos para estimar su velocidad.
