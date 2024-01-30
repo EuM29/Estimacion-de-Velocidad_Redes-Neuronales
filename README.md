@@ -2,7 +2,8 @@
 
 ¡Bienvenid@! Este proyecto utiliza Redes Neuronales Convolucionales para hacer estimaciones de velocidad de automóviles. :car: :motorway:
 
-https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/e3d36a2d-3ece-4967-b7d1-ee34c2cf21e4
+https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/8bfdeef3-07b9-4fee-b6cf-3d7d6143cec8
+
 
 
 ## Descripción  🚗💨
