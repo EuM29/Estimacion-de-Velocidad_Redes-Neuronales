@@ -22,7 +22,19 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 3. **Estimación de Velocidad:**
    - Calcular la velocidad de cada vehículo detectado y en seguimiento.
    - Utilizar información de la secuencia de imágenes o video para una estimación precisa.
+  
+  
+  ## Construido con 🛠️
 
+Este proyecto fue construido utilizando las siguientes herramientas:
+
+- [Google Colab](https://colab.research.google.com/): Entorno de cuadernos colaborativos para la ejecución de código Python, especialmente útil para tareas de aprendizaje profundo.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje profundo de código abierto para Python.
+- [NumPy](https://numpy.org/): Biblioteca para la manipulación eficiente de arreglos y matrices en Python.
+- [OpenCV](https://opencv.org/): Biblioteca de visión por computadora y procesamiento de imágenes.
+- [YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO (You Only Look Once), un modelo de detección de objetos en tiempo real.
+
+Estas herramientas fueron fundamentales para la detección, seguimiento y estimación de velocidad de vehículos en este proyecto. ¡Gracias a sus poderosas funcionalidades y capacidades! 👏
 
 
 
