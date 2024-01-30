@@ -11,5 +11,17 @@ Este proyecto es un experimento práctico que aplica CNNs en el contexto del rec
 
 Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard Suyapa, en Tegucigalpa Honduras, se entrena una CNN para identificar vehículos y calcular su velocidad a partir de secuencias de imágenes. Este proceso involucra la detección de los autos en cada cuadro y el seguimiento de su movimiento a lo largo del tiempo, además se destaca la aplicación de una transformación geométrica de perspectiva en el proceso de cálculo de la velocidad. Este procedimiento implica la representación matricial de las imágenes capturadas por cámaras y la utilización de operaciones tensoriales para modelar los cambios de perspectiva conforme el automóvil se desplaza.
 
+:pencil2: ##Objetivos específicos del experimento
+1. **Detección Automática de Vehículos:**
+   - Identificar diversos tipos de vehículos mediante avanzadas técnicas de visión por computadora.
+
+2. **Seguimiento de Vehículos:**
+   - Mantener un seguimiento continuo de los vehículos detectados para monitorear su trayectoria a lo largo del tiempo.
+
+3. **Estimación de Velocidad:**
+   - Calcular la velocidad de cada vehículo detectado y en seguimiento.
+   - Utilizar información de la secuencia de imágenes o video para una estimación precisa.
+
+
 
 
