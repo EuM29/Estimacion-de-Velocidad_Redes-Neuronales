@@ -92,6 +92,9 @@ dataset = project.version(1).download("yolov5")
 
 # Descarga el Modelo (Ejemplo con YOLOv5)
 dataset = project.version(1).download("yolov5")
+```
+
+
 
 ## Autores ✒️
 
