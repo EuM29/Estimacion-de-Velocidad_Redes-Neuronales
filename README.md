@@ -34,7 +34,12 @@ Este proyecto fue construido utilizando las siguientes herramientas:
 - [OpenCV](https://opencv.org/): Biblioteca de visión por computadora y procesamiento de imágenes.
 - [YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO (You Only Look Once), un modelo de detección de objetos en tiempo real.
 
-Estas herramientas fueron fundamentales para la detección, seguimiento y estimación de velocidad de vehículos en este proyecto. ¡Gracias a sus poderosas funcionalidades y capacidades! 👏
 
+## Autores ✒️
+
+* **Henry Ocampo** - *Investigación y asesor* - [henryocampo](#henry-ocampo)
+* **Iván Henríquez** - *Obtención de data* - [ivanhenriquez](#ivan-henriquez)
+* **María Fernanda Mendoza** - *Diseño y creación de base de datos para entrenamiento* - [mfernandamendoza](#maria-fernanda-mendoza)
+* **Ruth Moreno** - *Modelo de detección* - [ruthmoreno](#ruth-moreno)
 
 
