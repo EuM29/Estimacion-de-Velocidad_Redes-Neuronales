@@ -1,6 +1,7 @@
 # Estimación de Velocidad utilizando Redes-Neuronales 🚀
 
-Entrenamiento de la CNN
+Entrenamiento de la CNN YoloV5 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oRK8CG8riQmib0-v39mGP81-mGGeDpt8?usp=sharing)
 
 
