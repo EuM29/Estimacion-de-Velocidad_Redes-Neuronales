@@ -1,5 +1,9 @@
 # Estimación de Velocidad utilizando Redes-Neuronales 🚀
 
+Entrenamiento de la CNN
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oRK8CG8riQmib0-v39mGP81-mGGeDpt8?usp=sharing)
+
+
 ¡Bienvenid@! Este proyecto utiliza Redes Neuronales Convolucionales para hacer estimaciones de velocidad de automóviles. :car: :motorway:
 
 https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/8bfdeef3-07b9-4fee-b6cf-3d7d6143cec8
