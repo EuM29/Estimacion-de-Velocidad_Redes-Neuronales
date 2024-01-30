@@ -34,6 +34,47 @@ Este proyecto fue construido utilizando las siguientes herramientas:
 - [OpenCV](https://opencv.org/): Biblioteca de visión por computadora y procesamiento de imágenes.
 - [YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO (You Only Look Once), un modelo de detección de objetos en tiempo real.
 
+  
+### Pre-requisitos 📋
+
+Antes de comenzar, asegúrate de tener acceso a un entorno de Google Colab. Puedes acceder a Google Colab desde tu navegador web en [colab.research.google.com](https://colab.research.google.com/).
+
+1. **Conexión a Google Drive (opcional):** Si planeas utilizar Google Drive para almacenar o acceder a datos, modelos, etc., es recomendable conectar Colab con Google Drive. Puedes hacerlo ejecutando el siguiente código en una celda de Colab:
+
+    ```python
+    from google.colab import drive
+    drive.mount('/content/drive')
+    ```
+
+2. **Instalación de PyTorch:** PyTorch generalmente ya está preinstalado en Google Colab, pero puedes verificarlo e instalarlo si es necesario:
+
+    ```python
+    import torch
+    print(torch.__version__)
+    ```
+
+    Si no está instalado, puedes hacerlo con:
+
+    ```python
+    !pip install torch torchvision
+    ```
+
+3. **Importación de Bibliotecas Comunes:**
+    - NumPy:
+
+    ```python
+    import numpy as np
+    ```
+
+    - Matplotlib (para visualización):
+
+    ```python
+    import matplotlib.pyplot as plt
+    ```
+
+4. **Conexión a GPU (opcional):** Si deseas aprovechar una GPU en Colab, puedes hacerlo seleccionando `Entorno de ejecución > Cambiar tipo de entorno de ejecución` y eligiendo `Acelerador de hardware > GPU`.
+
+Recuerda que Google Colab reinicia el entorno después de un período de inactividad, por lo que debes ejecutar estas configuraciones al principio de tu cuaderno o script en Colab.
 
 ## Autores ✒️
 
