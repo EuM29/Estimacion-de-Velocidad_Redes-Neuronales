@@ -33,6 +33,7 @@ Este proyecto fue construido utilizando las siguientes herramientas:
 - [NumPy](https://numpy.org/): Biblioteca para la manipulación eficiente de arreglos y matrices en Python.
 - [OpenCV](https://opencv.org/): Biblioteca de visión por computadora y procesamiento de imágenes.
 - [YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO (You Only Look Once), un modelo de detección de objetos en tiempo real.
+- [Roboflow](https://roboflow.com/): Plataforma de preparación y gestión de datos para visión por computadora. Simplifica el flujo de trabajo de preparación de datos para modelos de aprendizaje profundo.
 
   
 ### Pre-requisitos 📋
@@ -75,6 +76,22 @@ Antes de comenzar, asegúrate de tener acceso a un entorno de Google Colab. Pued
 4. **Conexión a GPU (opcional):** Si deseas aprovechar una GPU en Colab, puedes hacerlo seleccionando `Entorno de ejecución > Cambiar tipo de entorno de ejecución` y eligiendo `Acelerador de hardware > GPU`.
 
 Recuerda que Google Colab reinicia el entorno después de un período de inactividad, por lo que debes ejecutar estas configuraciones al principio de tu cuaderno o script en Colab.
+
+## Uso de Roboflow en el Proyecto 🤖
+
+```python
+# Importa Roboflow
+from roboflow import Roboflow
+
+# Configura tu API Key
+rf = Roboflow(api_key="TU_API_KEY")
+
+# Selecciona Proyecto y Dataset
+project = rf.workspace("NOMBRE_DE_TU_WORKSPACE").project("NOMBRE_DE_TU_PROYECTO")
+dataset = project.version(1).download("yolov5")
+
+# Descarga el Modelo (Ejemplo con YOLOv5)
+dataset = project.version(1).download("yolov5")
 
 ## Autores ✒️
 
