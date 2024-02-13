@@ -7,7 +7,8 @@ Entrenamiento de la CNN YoloV5
 
 ¡Bienvenid@! Este proyecto utiliza Redes Neuronales Convolucionales para hacer estimaciones de velocidad de automóviles. :car: :motorway:
 
-https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/8bfdeef3-07b9-4fee-b6cf-3d7d6143cec8
+
+https://github.com/EuM29/Estimaci-n-de-Velocidad-__-Redes-Neuronales/assets/114162926/fe6adb02-cabd-4bbd-ac9a-e38a53d82153
 
 
 
