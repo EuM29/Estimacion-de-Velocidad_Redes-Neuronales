@@ -16,14 +16,14 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 <table>
     <tr>
       <td align="center">
-       <td align="center">
         <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="300"/>
         <br/>
         <sub>Uso de frames para procesar videos. </sub>
       </td>
+    <td align="center">
         <img src="https://github.com/user-attachments/assets/c0e4cf4f-69d6-4012-aeea-717e2aae728d" width="300"/>
         <br/>
-        <sub>Modelo de Red Neuronal Convolucional. </sub>
+        <sub>Modelo de Red Neuronal. </sub>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/e9b74849-02e6-4cc4-bc73-e40cab885db2" width="300"/>
