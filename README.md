@@ -16,7 +16,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="300"/>
+        <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="100"/>
         <br/>
         <sub>Uso de frames para procesar videos. </sub>
       </td>
@@ -26,7 +26,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
         <sub>Modelo de Red Neuronal. </sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e9b74849-02e6-4cc4-bc73-e40cab885db2" width="300"/>
+        <img src="https://github.com/user-attachments/assets/e9b74849-02e6-4cc4-bc73-e40cab885db2" width="400"/>
         <br/>
         <sub>Análisis de perspectiva.</sub>
       </td>
