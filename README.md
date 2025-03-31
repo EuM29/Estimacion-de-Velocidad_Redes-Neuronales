@@ -16,7 +16,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="100"/>
+        <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="200"/>
         <br/>
         <sub>Uso de frames para procesar videos. </sub>
       </td>
