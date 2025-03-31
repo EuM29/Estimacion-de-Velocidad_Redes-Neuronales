@@ -60,7 +60,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
      <table>
            <tr>
              <td align="center">
-               <img src="https://github.com/user-attachments/assets/c7e72fa1-55cf-4e2b-9cf4-f2b2af7d6cdb" width="1000"/>
+               <img src="https://github.com/user-attachments/assets/c7e72fa1-55cf-4e2b-9cf4-f2b2af7d6cdb" width="900"/>
                <br/>
                <sub>Estimación de velocidad y línea de seguimiento de vehículos, así como contador por objeto.</sub>
              </td>
