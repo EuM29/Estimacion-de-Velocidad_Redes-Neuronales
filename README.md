@@ -13,8 +13,6 @@ Entrenamiento de la CNN YoloV5
   Tu navegador no soporta la reproducción de videos.
 </video>
 
-
-
 ## Descripción  🚗💨
 Este proyecto es un experimento práctico que aplica CNNs en el contexto del reconocimiento y seguimiento de vehículos para estimar su velocidad.
 
