@@ -110,19 +110,20 @@ Antes de comenzar, asegúrate de tener acceso a un entorno de Google Colab. Pued
     drive.mount('/content/drive')
     ```
 
-2. **Instalación de TensorFlow:** TensorFlow generalmente ya viene preinstalado en Google Colab. Sin embargo, puedes verificarlo e instalarlo manualmente si es necesario
+2. **Instalación de TensorFlow:**  TensorFlow generalmente ya viene preinstalado en Google Colab. Sin embargo, puedes verificarlo e instalarlo manualmente si es necesario:
 
-    # Verificar instalación de TensorFlow
-    import tensorflow as tf
-    print("Versión de TensorFlow:", tf.__version__)
-    
-    # Verificar si está usando GPU
-    device_name = tf.config.list_physical_devices('GPU')
-    if device_name:
-        print("✅ GPU disponible:", device_name[0])
-    else:
-        print("⚠️ No se detectó GPU.")
+```python
+# Verificar instalación de TensorFlow
+import tensorflow as tf
+print("Versión de TensorFlow:", tf.__version__)
 
+# Verificar si está usando GPU
+device_name = tf.config.list_physical_devices('GPU')
+if device_name:
+    print("✅ GPU disponible:", device_name[0])
+else:
+    print("⚠️ No se detectó GPU.")
+```
 
 3. **Importación de Bibliotecas Comunes:**
     - NumPy:
