@@ -18,7 +18,8 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 
 1. **Detección Automática de Vehículos:**
    - Identificar diversos tipos de vehículos mediante avanzadas técnicas de visión por computadora.
-     
+     ![det1](https://github.com/user-attachments/assets/3e6f9944-4126-4e8c-ae49-0dc011e3e309)
+
 
 2. **Seguimiento de Vehículos:**
    - Mantener un seguimiento continuo de los vehículos detectados para monitorear su trayectoria a lo largo del tiempo.
