@@ -44,7 +44,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
       <table>
            <tr>
              <td align="center">
-               <img src="https://github.com/user-attachments/assets/1d4cc1fa-0af1-484e-b44d-19ffbf6ffc90" width="300"/>
+               <img src="https://github.com/user-attachments/assets/1d4cc1fa-0af1-484e-b44d-19ffbf6ffc90" width="500"/>
                <br/>
                <sub>Seguimiento de objetos a lo largo del tiempo mediante el uso de dataframes.</sub>
              </td>
