@@ -18,6 +18,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 
 1. **Detección Automática de Vehículos:**
    - Identificar diversos tipos de vehículos mediante avanzadas técnicas de visión por computadora.
+     
 
 2. **Seguimiento de Vehículos:**
    - Mantener un seguimiento continuo de los vehículos detectados para monitorear su trayectoria a lo largo del tiempo.
