@@ -11,9 +11,12 @@ Este repositorio presenta un proyecto desarrollado en la Escuela de Matemática 
 https://github.com/user-attachments/assets/50d8706c-bb59-4d8d-a29c-8b3c3b75c318
 
 ## Descripción  🚗💨
-Este proyecto es un experimento práctico que aplica CNNs en el contexto del reconocimiento y seguimiento de vehículos para estimar su velocidad.
+Este proyecto constituye un experimento práctico que aplica Redes Neuronales Convolucionales (CNN) al reconocimiento y seguimiento de vehículos con el objetivo de estimar su velocidad.
 
-Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard Suyapa, en Tegucigalpa Honduras, se entrena una CNN para identificar vehículos y calcular su velocidad a partir de secuencias de imágenes. Este proceso involucra la detección de los autos en cada cuadro y el seguimiento de su movimiento a lo largo del tiempo, además se destaca la aplicación de una transformación geométrica de perspectiva en el proceso de cálculo de la velocidad. Este procedimiento implica la representación matricial de las imágenes capturadas por cámaras y la utilización de operaciones tensoriales para modelar los cambios de perspectiva conforme el automóvil se desplaza.
+Se trabaja con un conjunto de datos compuesto por videos de tráfico real capturados en el Boulevard Suyapa, en Tegucigalpa, Honduras. A partir de estas secuencias de imágenes, se entrena una CNN para identificar vehículos y calcular su velocidad mediante el análisis de su desplazamiento entre cuadros consecutivos.
+
+El proceso incluye tanto la detección de automóviles como el seguimiento de su trayectoria a lo largo del tiempo. Además, se implementa una transformación geométrica de perspectiva para mejorar la precisión del cálculo de velocidad. Esta transformación se basa en una representación matricial de las imágenes y el uso de operaciones tensoriales, que permiten modelar los cambios de perspectiva a medida que los vehículos avanzan en la escena.
+
 <table>
     <tr>
       <td align="center">
