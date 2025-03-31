@@ -30,6 +30,11 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
                <br/>
                <sub>Detección 2</sub>
              </td>
+            <td align="center">
+               <img src="https://github.com/user-attachments/assets/e7f36c8b-e52a-419d-bab2-10e94be074f7" width="300"/>
+               <br/>
+               <sub>Detección 3</sub>
+             </td>
            </tr>
       </table>
 
