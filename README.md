@@ -92,7 +92,7 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
 Este proyecto fue construido utilizando las siguientes herramientas:
 
 - [Google Colab](https://colab.research.google.com/): Entorno de cuadernos colaborativos para la ejecución de código Python, especialmente útil para tareas de aprendizaje profundo.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje profundo de código abierto para Python.
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de código abierto para aprendizaje automático y profundo desarrollada por Google.
 - [NumPy](https://numpy.org/): Biblioteca para la manipulación eficiente de arreglos y matrices en Python.
 - [OpenCV](https://opencv.org/): Biblioteca de visión por computadora y procesamiento de imágenes.
 - [YOLOv5](https://github.com/ultralytics/yolov5): Implementación de YOLO (You Only Look Once), un modelo de detección de objetos en tiempo real.
@@ -110,18 +110,19 @@ Antes de comenzar, asegúrate de tener acceso a un entorno de Google Colab. Pued
     drive.mount('/content/drive')
     ```
 
-2. **Instalación de PyTorch:** PyTorch generalmente ya está preinstalado en Google Colab, pero puedes verificarlo e instalarlo si es necesario:
+2. **Instalación de TensorFlow:** TensorFlow generalmente ya viene preinstalado en Google Colab. Sin embargo, puedes verificarlo e instalarlo manualmente si es necesario
 
-    ```python
-    import torch
-    print(torch.__version__)
-    ```
+    # Verificar instalación de TensorFlow
+    import tensorflow as tf
+    print("Versión de TensorFlow:", tf.__version__)
+    
+    # Verificar si está usando GPU
+    device_name = tf.config.list_physical_devices('GPU')
+    if device_name:
+        print("✅ GPU disponible:", device_name[0])
+    else:
+        print("⚠️ No se detectó GPU.")
 
-    Si no está instalado, puedes hacerlo con:
-
-    ```python
-    !pip install torch torchvision
-    ```
 
 3. **Importación de Bibliotecas Comunes:**
     - NumPy:
