@@ -5,7 +5,8 @@ Entrenamiento de la CNN YoloV5
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oRK8CG8riQmib0-v39mGP81-mGGeDpt8?usp=sharing)
 
 
-¡Bienvenid@! Este proyecto utiliza Redes Neuronales Convolucionales para hacer estimaciones de velocidad de automóviles. :car: :motorway:
+🚀 ¡Bienvenid@!
+Este repositorio presenta un proyecto desarrollado en la Escuela de Matemática y Ciencias de la Computación de la Universidad Nacional Autónoma de Honduras (UNAH), enfocado en el uso de técnicas modernas de visión por computadora y aprendizaje profundo. A través del empleo de Redes Neuronales Convolucionales (CNN), se exploran métodos para el análisis automatizado de secuencias de video aplicados al contexto del tráfico vehicular. 🛣️🚗💡
 
 https://github.com/user-attachments/assets/50d8706c-bb59-4d8d-a29c-8b3c3b75c318
 
