@@ -69,7 +69,7 @@ El proceso incluye tanto la detección de automóviles como el seguimiento de su
              <td align="center">
                <img src="https://github.com/user-attachments/assets/1d4cc1fa-0af1-484e-b44d-19ffbf6ffc90" width="1000"/>
                <br/>
-               <sub>Seguimiento de objetos a lo largo del tiempo mediante el uso de dataframes.</sub>
+               <sub>Seguimiento de objetos a lo largo del tiempo mediante el uso de frames.</sub>
              </td>
       </table>
 
