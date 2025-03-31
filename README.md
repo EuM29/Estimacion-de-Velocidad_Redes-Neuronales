@@ -39,9 +39,18 @@ Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard
       </table>
 
 
-
 2. **Seguimiento de Vehículos:**
    - Mantener un seguimiento continuo de los vehículos detectados para monitorear su trayectoria a lo largo del tiempo.
+      <table>
+           <tr>
+             <td align="center">
+               <img src="https://github.com/user-attachments/assets/1d4cc1fa-0af1-484e-b44d-19ffbf6ffc90" width="300"/>
+               <br/>
+               <sub>Seguimiento de objetos a lo largo del tiempo mediante el uso de dataframes.</sub>
+             </td>
+      </table>
+
+     
 
 3. **Estimación de Velocidad:**
    - Calcular la velocidad de cada vehículo detectado y en seguimiento.
