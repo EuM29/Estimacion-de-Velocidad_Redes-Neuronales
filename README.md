@@ -9,8 +9,8 @@ Entrenamiento de la CNN YoloV5
 
 
 <video width="600" controls>
-  <source src="ruta/al/video/output.mp4" type="video/mp4">
-  Tu navegador no soporta videos HTML5.
+  <source src="Estimacion-velocidad.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos.
 </video>
 
 
