@@ -13,6 +13,25 @@ https://github.com/user-attachments/assets/50d8706c-bb59-4d8d-a29c-8b3c3b75c318
 Este proyecto es un experimento práctico que aplica CNNs en el contexto del reconocimiento y seguimiento de vehículos para estimar su velocidad.
 
 Utilizando un conjunto de datos de video de tráfico real tomado en el Boulevard Suyapa, en Tegucigalpa Honduras, se entrena una CNN para identificar vehículos y calcular su velocidad a partir de secuencias de imágenes. Este proceso involucra la detección de los autos en cada cuadro y el seguimiento de su movimiento a lo largo del tiempo, además se destaca la aplicación de una transformación geométrica de perspectiva en el proceso de cálculo de la velocidad. Este procedimiento implica la representación matricial de las imágenes capturadas por cámaras y la utilización de operaciones tensoriales para modelar los cambios de perspectiva conforme el automóvil se desplaza.
+<table>
+    <tr>
+      <td align="center">
+       <td align="center">
+        <img src="https://github.com/user-attachments/assets/86eac7e4-47f0-4299-a8ad-6a55b6699370" width="300"/>
+        <br/>
+        <sub>Uso de frames para procesar videos. </sub>
+      </td>
+        <img src="https://github.com/user-attachments/assets/c0e4cf4f-69d6-4012-aeea-717e2aae728d" width="300"/>
+        <br/>
+        <sub>Modelo de Red Neuronal Convolucional. </sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/e9b74849-02e6-4cc4-bc73-e40cab885db2" width="300"/>
+        <br/>
+        <sub>Análisis de perspectiva.</sub>
+      </td>
+    </tr>
+ </table>
 
  ## Objetivos específicos del experimento :pencil2:
 
